@@ -357,7 +357,7 @@ body {
 }
 
 .strip{
-    position: absolute;
+    position: relative;
     max-width: 10%;
     height: auto;
     float: left;
@@ -366,7 +366,7 @@ body {
 }
 
 .stripr{
-    position: absolute;
+    position: relative;
     max-width: 10%;
     height: auto;
     float: right;
