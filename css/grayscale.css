@@ -346,14 +346,31 @@ body {
 }
 
 .img {
-    max-width:100%;
-    height:auto;
+    max-width: 100%;
+    height: auto;      
 }
 
 .wedstl{
-    position: relative;
+    
     top: 0px;
-    background-size: 100%;
-    text-align: center;
-
+    margin: 0 auto;
 }
+
+.strip{
+    position: absolute;
+    max-width: 10%;
+    height: auto;
+    float: left;
+    left: 0px;
+    z-index:-1;
+}
+
+.stripr{
+    position: absolute;
+    max-width: 10%;
+    height: auto;
+    float: right;
+    right: 0px;
+    z-index: -1;
+}
+
