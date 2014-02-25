@@ -3,7 +3,7 @@ body {
     height: 100%;
     font-family: Tangerine;
     color: #fff;
-    background-color: #371211;
+    background-color: #fff;
 }
 
 html {
@@ -237,7 +237,7 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 0px;
 }
 
 .download-section {
@@ -258,7 +258,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 0px;
     }
 
     .download-section {
@@ -343,4 +343,17 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.img {
+    max-width:100%;
+    height:auto;
+}
+
+.wedstl{
+    position: relative;
+    top: 0px;
+    background-size: 100%;
+    text-align: center;
+
 }
