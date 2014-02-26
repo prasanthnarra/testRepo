@@ -392,18 +392,32 @@ body {
     text-align: center;
     vertical-align:center;
     padding-top: 200px;
-    padding-bottom: 200px;
     padding-left:100px;
     padding-right:100px;
-    height: 800px;
 }
 
 .wedding-text-two {
-        padding-top: 600px;
+        padding-top: 200px;
 }
 
 .wedding-text-three {
-        padding-top: 600px;
+        padding-top: 400px;
+}
+
+.wedding-text-four {
+        padding-top: 400px;
+}
+
+.wedding-text-five {
+        padding-top: 400px;
+}
+
+.wedding-text-six {
+        padding-top: 400px;
+}
+
+.wedding-text-seven {
+        padding-top: 400px;
 }
 
 
