@@ -3,7 +3,7 @@ body {
     height: 100%;
     font-family: Tangerine;
     color: #fff;
-    background-color: #fff;
+    background-color: #590E0E;
 }
 
 html {
@@ -127,7 +127,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-color: #371211;
+    background-color: #590E0E;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -351,12 +351,13 @@ body {
 }
 
 .wedstl{
-    
+    background-color: #fff;
     top: 0px;
     margin: 0 auto;
 }
 
 .strip{
+    background-color: #fff;
     position: relative;
     max-width: 10%;
     height: auto;
@@ -366,11 +367,17 @@ body {
 }
 
 .stripr{
+    background-color: #fff;
     position: relative;
     max-width: 10%;
     height: auto;
     float: right;
     right: 0px;
     z-index: -1;
+}
+
+.wed-content {
+    font-size: 50px;
+    color: #FEE383;
 }
 
