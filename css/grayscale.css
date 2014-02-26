@@ -381,3 +381,30 @@ body {
     color: #FEE383;
 }
 
+.divider {
+    color: #FEE383;
+}
+
+.wedding-text-one{
+    font-size: 50px;
+    color: #FEE383;
+    position:absolute;
+    text-align: center;
+    vertical-align:center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left:100px;
+    padding-right:100px;
+    height: 800px;
+}
+
+.wedding-text-two {
+        padding-top: 600px;
+}
+
+.wedding-text-three {
+        padding-top: 600px;
+}
+
+
+
