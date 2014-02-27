@@ -33,7 +33,7 @@ p {
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
-        font-size: 20px;
+        font-size: 50px;
         line-height: 1.6;
     }
 }
@@ -280,7 +280,8 @@ a:focus {
     transition: all .3s ease-in-out;
 }
 
-.btn:hover {
+.btn:hover,
+.btn:focus {
     color: #fff;
 }
 
@@ -428,14 +429,8 @@ body {
 .wedding-text-six {
         padding-top: 100px;
         vertical-align:center;
-        padding-bottom: 300px;
 }
 
-.wedding-text-seven {
-        padding-top: 300px;
-        vertical-align:center;
-        padding-bottom: 300px;
-}
 
 .landing-image {
        width: 50%;
