@@ -39,7 +39,7 @@ p {
 }
 
 a {
-    color: #28c3ab;
+    color: #FEE383;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -48,7 +48,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #176e61;
+    color: #fff;
 }
 
 .light {
@@ -280,6 +280,10 @@ a:focus {
     transition: all .3s ease-in-out;
 }
 
+.btn:hover {
+    color: #fff;
+}
+
 .btn-default {
     border: 1px solid #28c3ab;
     color: #28c3ab;
@@ -391,33 +395,51 @@ body {
     position:absolute;
     text-align: center;
     vertical-align:center;
-    padding-top: 200px;
     padding-left:100px;
     padding-right:100px;
+    padding-top: 300px;
+    padding-bottom: 200px; 
 }
 
 .wedding-text-two {
-        padding-top: 200px;
+        padding-top: 10%;
+        vertical-align:center;
+        padding-bottom: 250px;
 }
 
 .wedding-text-three {
-        padding-top: 400px;
+		padding-top: 100px;
+        vertical-align:center;
+        padding-bottom: 300px;
 }
 
 .wedding-text-four {
-        padding-top: 400px;
+        padding-top: 100px;
+        vertical-align:center;
+        padding-bottom: 300px;
 }
 
 .wedding-text-five {
-        padding-top: 400px;
+        padding-top: 100px;
+        vertical-align:center;
+        padding-bottom: 300px;
 }
 
 .wedding-text-six {
-        padding-top: 400px;
+        padding-top: 100px;
+        vertical-align:center;
+        padding-bottom: 300px;
 }
 
 .wedding-text-seven {
-        padding-top: 400px;
+        padding-top: 300px;
+        vertical-align:center;
+        padding-bottom: 300px;
+}
+
+.landing-image {
+       width: 50%;
+       height: 50%;
 }
 
 
